@@ -1,0 +1,29 @@
+# Core dependencies
+leann>=0.3.4
+streamlit>=1.32.0
+langfuse>=2.0.0
+
+# Vector and embeddings
+sentence-transformers>=2.2.0
+openai>=1.0.0
+tiktoken>=0.5.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+PyPDF2>=3.0.0
+python-docx>=1.0.0
+openpyxl>=3.1.0
+
+# Visualization
+plotly>=5.18.0
+matplotlib>=3.8.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+pathlib>=1.0.1
+
+# LLM for MVP2
+langchain>=0.1.0
+langchain-openai>=0.0.5
